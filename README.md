@@ -1,2 +1,2 @@
 # iot-2021-first-project
-first repo wiyh iot-2021
+first repo with iot-2021
